@@ -27,12 +27,16 @@ Unityで、「もし人型のメカ兵器があったら」「このようなゲ
 
 ## 3.操作・操縦体験
 
-<img width="1280" height="720" alt="4" src="https://github.com/user-attachments/assets/7fd4482c-2bf9-4c17-8800-c29c18daf39e" />
+<img width="1280" height="720" alt="4" src="https://github.com/user-attachments/assets/7fd4482c-2bf9-4c17-8800-c29c18daf39e" />  
+2本のフライト用スティックと、レーシングシミュレーターのペダルを活用し、手足を使って機体を操縦できるようにしました。左右のスティックの倒し方をスクリプト側で計算させ、機体を旋回、ペダルによって移動を可能としました。
 
 
 ## 4.遊び方の拡張
 
-<img width="1280" height="720" alt="5" src="https://github.com/user-attachments/assets/0b553f5a-c15f-4e1c-9a10-915a72822651" />
+<img width="1280" height="720" alt="5" src="https://github.com/user-attachments/assets/0b553f5a-c15f-4e1c-9a10-915a72822651" />  
+当初の目標であった「ゲームとして動かす」を達成し、機体を操作できるようになった後は、「これを使ってどう遊べるか」について試しました。まず、敵CPUを追加し、移動しながら撃ちあえるようにしました。  
+
+さらに、1台のPCから2画面に出力させ、2P対戦で遊べるようにしました。2P側用に、コントローラー操作にも対応させ、友人同士でのデモプレイができるようにしました。
 
 
 ## 5.友人とのデモプレイで得られたレビュー
